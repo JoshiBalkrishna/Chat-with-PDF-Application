@@ -1,6 +1,6 @@
 # Chat with PDF Application
 
-This is a Streamlit-based application that allows users to upload PDF files, extract their content, and interact with the documents using natural language processing (NLP). After uploading the PDF files, users can ask questions, and the system will answer based on the content extracted from the PDFs.
+This is a Streamlit-based application that lets users upload PDF files and see the content inside them. After uploading the PDFs, users can ask questions, and the system will give answers based on the information from the uploaded documents, making it easy to interact with the files.
 
 ## API Keys
 To run the application, you will need two API keys:
