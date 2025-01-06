@@ -1,7 +1,6 @@
 # Chat-with-PDF-Application
 
-A Streamlit-based app to chat with and query PDF documents using LangChain and vector retrieval.
-
+This is a Streamlit-based app that allows users to upload PDF files and interact with their content using natural language. The app leverages LangChain, HuggingFace Embeddings, and Groq for intelligent question answering and document retrieval.
 ## Features
 
 - **Upload PDFs**: Add multiple PDF files for content extraction.
