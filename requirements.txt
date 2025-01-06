@@ -1,0 +1,12 @@
+streamlit
+uuid
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pydantic
+PyPDF2
